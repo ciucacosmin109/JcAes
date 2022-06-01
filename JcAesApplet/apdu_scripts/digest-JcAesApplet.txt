@@ -1,0 +1,12 @@
+Digest for com/marius/jc/aes/javacard/Class.cap		[SHA-256: 2636542da88186d4a16025028da94e1bce61f36ba4c19dafba8e595df5fbe33e]
+Digest for com/marius/jc/aes/javacard/Descriptor.cap		[SHA-256: 8ced66d87a48c9cbcc8a7a1267c10dcf73a91509f1497bcefae1fdfbad4eb00d]
+Digest for com/marius/jc/aes/javacard/Method.cap		[SHA-256: 11700dbfb425f29c4a92162c78de39a222d1d0af045aa6cc806c3fefaec80af7]
+Digest for com/marius/jc/aes/javacard/Header.cap		[SHA-256: 4c1c651bdf7f9356fbfb359fc192ded18233e065f1a4e7fdeaa830a7451001cd]
+Digest for com/marius/jc/aes/javacard/Directory.cap		[SHA-256: 01f07aa4c0cccb2accb28d1e9fc87d54d66c427a69032bc6f484e1222b098790]
+Digest for com/marius/jc/aes/javacard/RefLocation.cap		[SHA-256: d295afe8d9ec474bc5fe5f382decb3b9cdb0c34dae375cfd0e08aeb026c591f6]
+Digest for com/marius/jc/aes/javacard/Applet.cap		[SHA-256: c184969b5b2944e6b1f01a1a492792f87e2838c893afe18d896effe0fee9b8e8]
+Digest for com/marius/jc/aes/javacard/Debug.cap		[SHA-256: 858868c2d4ea0a07d608f09193dcdc986fb12e44137b8c9c6f5dcb1095405eec]
+Digest for com/marius/jc/aes/javacard/StaticField.cap		[SHA-256: 7ca5ad2cfa9e453e379417c3a8ee1ca44b6c4a15dd99f3499439b9ff7c7ec831]
+Digest for com/marius/jc/aes/javacard/Import.cap		[SHA-256: 5a025743641138f858ea16a1fd750df9a9e9a29c1f203bf00c80705b3ecb8542]
+Digest for com/marius/jc/aes/javacard/ConstantPool.cap		[SHA-256: c48864877262d5803a6f5f62cc64f8b25d901d59635d31a9d1fbcf7432b58050]
+Verification completed with 0 warnings and 0 errors.
